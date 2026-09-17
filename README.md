@@ -4,8 +4,8 @@ A console-based Java application for managing hotel rooms, guests, bookings, bil
 
 ## Project Information
 
-**Student Name:** Sagan Gangwar
-**Registration No.:** 25BAI10057
+**Student Name:** Tanishq Chaudhary
+**Registration No.:** 25BAI10574
 **Project:** Hotel Management System
 **Language:** Java
 **Type:** Console-Based Application
@@ -139,8 +139,8 @@ There's plenty of room to grow this project. A graphical interface would make it
 
 ## Author
 
-Sagan Gangwar
-Registration No.: 25BAI10057
+Tanishq Chaudhary
+Registration No.: 25BAI10574
 
 ## License
 
